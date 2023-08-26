@@ -267,7 +267,7 @@ section .button button:hover{
   justify-content: space-between;
 }
 .skills-details .box{
-  width: calc(390% / 12 - 20px);
+  width: calc(200% / 6 - 2px);
   margin: 20px 0;
 }
 .skills-details .boxes .topic{
